@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### 웹 백엔드를 공부하고 있는 대학생입니다!!
 <!--
 **HiiWee/HiiWee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
