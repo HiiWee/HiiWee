@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 웹 백엔드를 공부하고 있는 대학생입니다!!
-## Elegant code comes from hard work!!!
+## Graceful code comes from hard work!!!
 🌱 I’m currently learning ...
 
 <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
