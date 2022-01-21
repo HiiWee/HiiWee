@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 웹 백엔드를 공부하고 있는 대학생입니다!!
+### 백엔드 공부를 하고 있는 학생이며 좋은 코드란 무엇인지 판단할 수 있는 능력을 가지려 끊임없이 노력 중 입니다.
 ## Graceful code comes from hard work!!!
 🌱 I’m currently learning ...
 
