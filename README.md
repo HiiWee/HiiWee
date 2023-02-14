@@ -4,8 +4,6 @@
 #### 그것들을 판단할 수 있는 능력을 가지기 위해 노력 중 입니다.
 ## Graceful code comes from hard work!!!
 
-[1일 1커밋 365 + 1일 회고록](https://velog.io/@wpdlzhf159/%ED%9A%8C%EA%B3%A0%EB%A1%9D-1%EC%9D%BC-1%EC%BB%A4%EB%B0%8B%EC%9D%84-365-1%EC%9D%BC%EC%9D%84-%ED%95%98%EA%B3%A0%EB%82%98%EC%84%9C)
-
 🌱 I’m currently learning ...
 
 <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -27,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wpdlzhf159&color=dark)](https://github.com/eungyeole/velog-readme-stats)
