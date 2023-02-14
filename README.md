@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wpdlzhf159&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wpdlzhf159&color=dark)](https://velog.io/@wpdlzhf159)
