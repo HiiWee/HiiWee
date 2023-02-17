@@ -1,8 +1,8 @@
 ### Hi there 👋
-#### 백엔드 공부를 하고 있는 학생입니다.
-#### 좋은 구조, 코드란 무엇인지 궁금해하며
-#### 그것들을 판단할 수 있는 능력을 가지기 위해 노력 중 입니다.
-## Graceful code comes from hard work!!!
+백엔드 공부를 하고 있는 학생입니다.   
+좋은 구조, 코드란 무엇인지 궁금해하며   
+그것들을 판단할 수 있는 능력을 가지기 위해 노력 중 입니다.   
+`Graceful code comes from hard work!!!`
 
 🌱 I’m currently learning ...
 
