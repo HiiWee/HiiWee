@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ✅ Latest Blog Post
+### 📌 Latest Blog Post
 
 [2023/05/04 - [MyLittleBlog] 유저기능: 회원가입 비즈니스 로직 구현하기! (2023/04/26)](https://hiiwee.tistory.com/34) <br/>
 [2023/05/04 - [자바 웹 프로그래밍 Next-Step] 6주차 ~ 9주차](https://hiiwee.tistory.com/33) <br/>
