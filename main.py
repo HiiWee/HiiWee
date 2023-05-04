@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ✅ Latest Blog Post
+### 📌 Latest Blog Post
 
 """  # list of blog posts will be appended here
 
