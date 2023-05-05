@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 ### 📌 Latest Blog Post
 
+[2023/05/04 - [MyLittleBlog] 리팩토링: 예외에 대한 에러 코드 추가](https://hiiwee.tistory.com/36) <br/>
 [2023/05/04 - [MyLittleBlog] 회원가입 웹 계층 구현하기 (2023/04/27 ~ 2023/04/29)](https://hiiwee.tistory.com/35) <br/>
 [2023/05/04 - [MyLittleBlog] 유저기능: 회원가입 비즈니스 로직 구현하기! (2023/04/26)](https://hiiwee.tistory.com/34) <br/>
 [2023/05/04 - [자바 웹 프로그래밍 Next-Step] 6주차 ~ 9주차](https://hiiwee.tistory.com/33) <br/>
 [2023/05/04 - [MyLittleBlog] 기존 프로젝트 점검 및 개편하기](https://hiiwee.tistory.com/32) <br/>
 [2023/04/07 - [스프링 디버깅 해보기] 스프링의 기본 오류 페이지 Whitelabel Error Page는 어떻게 생성될까?](https://hiiwee.tistory.com/31) <br/>
-[2023/04/01 - [스터디] 마침표(8회차)](https://hiiwee.tistory.com/30) <br/>
