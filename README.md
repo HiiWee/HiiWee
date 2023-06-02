@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### 📌 Latest Blog Post
 
-[2023/05/28 - [스터디2] 인수테스트 리팩토링 및 1:N관계의 추가 (5회차)(작성중)](https://hiiwee.tistory.com/42) <br/>
+[2023/05/28 - [스터디2] 테스트 리팩토링 및 1:N, N:M관계의 추가 (5회차)](https://hiiwee.tistory.com/42) <br/>
 [2023/05/22 - [스터디2] JWT 활용한 회원가입, 로그인 기능 구현 (4회차)](https://hiiwee.tistory.com/41) <br/>
 [2023/05/17 - [스터디2] Nginx와 Elastic Beanstalk을 통한 간단한 무중단 배포 해보기! (3회차)](https://hiiwee.tistory.com/40) <br/>
 [2023/05/14 - [스터디2] 익명 게시판 유효성 검사, 예외 처리 및 API 문서 만들기 (2회차)](https://hiiwee.tistory.com/39) <br/>
