@@ -1,6 +1,6 @@
 import feedparser, time
 
-URL = "https://hiiwee.tistory.com//rss"
+URL = "https://hiiwee.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
